@@ -1,0 +1,10 @@
+AI DataVault is an open-source community-driven project that allows personalization of AI while at the same time protecting the user's privacy.  Stay in control of:
+
+- Which AI systems have access to what data, with granular control.
+- Real time oversight of what data is being requested.
+- When access to your data is granted, when it expires.
+- Control where your data is stored
+- Control where your data is hosted
+- All open source.
+
+The way Personalization Vault works is by acting as an intermediary between a 3rd party AI app and a GraphQL/REST database of the user's personal data.  Only certain read-only queries are allowed, and you can block access.  Stay in control of your data.
